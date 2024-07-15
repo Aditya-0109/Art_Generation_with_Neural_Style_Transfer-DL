@@ -11,13 +11,13 @@ Implementing Neural Style Transfer algorithm which given a content image C and a
 
 ## Example
 Image S:
-![image](https://github.com/user-attachments/assets/242508fc-cb53-4c1c-bbbf-a4cf607c3cb6 =256X256)
+![](https://github.com/user-attachments/assets/242508fc-cb53-4c1c-bbbf-a4cf607c3cb6 =256X256)
 
 Image C:
-![image](https://github.com/user-attachments/assets/94c431da-a0a0-494d-975c-fd1eeda5c64d =256X256)
+![](https://github.com/user-attachments/assets/94c431da-a0a0-494d-975c-fd1eeda5c64d =256X256)
 
 Generated Image:
-![Generated_image_step_999](https://github.com/user-attachments/assets/0d169fc4-4eeb-4c3e-a060-a134f3fb5a4e =256X256)
+![](https://github.com/user-attachments/assets/0d169fc4-4eeb-4c3e-a060-a134f3fb5a4e =256X256)
 
 
 
