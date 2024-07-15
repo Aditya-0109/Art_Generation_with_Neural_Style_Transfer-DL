@@ -11,7 +11,7 @@ Implementing Neural Style Transfer algorithm which given a content image C and a
 
 ## Example
 Image S:
-![image](https://github.com/user-attachments/assets/d0d53fb7-823a-4dc8-b5b8-04a8b31404fc)
+![image](https://github.com/user-attachments/assets/d0d53fb7-823a-4dc8-b5b8-04a8b31404fc=250X250) 
 
 Image C:
 ![image](https://github.com/user-attachments/assets/94c431da-a0a0-494d-975c-fd1eeda5c64d)
